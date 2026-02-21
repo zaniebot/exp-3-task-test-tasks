@@ -1,0 +1,1 @@
+Removed unused `import io` and `import sys` from test_hello.py. Neither module was used directly in the test file (sys was only referenced via `unittest.mock.patch("sys.argv", ...)`), so the imports were dead code.
