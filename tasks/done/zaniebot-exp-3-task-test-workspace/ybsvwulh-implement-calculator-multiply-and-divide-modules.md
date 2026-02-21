@@ -1,6 +1,10 @@
 ---
 target_repo: https://github.com/zaniebot/exp-3-task-test-workspace
 target_ref: agent/vverziwe-plan-a-calculator-module
+session: sessions/zaniebot-exp-3-task-test-workspace/ybsvwulh-implement-calculator-multiply-and-divide-modules/chat.jsonl
+summary: sessions/zaniebot-exp-3-task-test-workspace/ybsvwulh-implement-calculator-multiply-and-divide-modules/summary.md
+reviews:
+  - reviews/ybsvwulh-implement-calculator-multiply-and-divide-modules/auto-reviewer-qpleudus.md
 ---
 
 # Implement calculator multiply and divide modules
