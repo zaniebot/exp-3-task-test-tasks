@@ -1,5 +1,9 @@
 ---
 target_repo: https://github.com/zaniebot/exp-3-task-test-workspace
+session: sessions/zaniebot-exp-3-task-test-workspace/vverziwe-plan-a-calculator-module/chat.jsonl
+summary: sessions/zaniebot-exp-3-task-test-workspace/vverziwe-plan-a-calculator-module/summary.md
+reviews:
+  - reviews/vverziwe-plan-a-calculator-module/auto-reviewer-ohseucgg.md
 ---
 
 # Plan a calculator module
