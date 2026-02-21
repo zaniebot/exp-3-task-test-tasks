@@ -1,6 +1,10 @@
 ---
 target_repo: https://github.com/zaniebot/exp-3-task-test-workspace
 target_ref: agent/vverziwe-plan-a-calculator-module
+session: sessions/zaniebot-exp-3-task-test-workspace/kfvhemrd-implement-calculator-add-and-subtract-modules/chat.jsonl
+summary: sessions/zaniebot-exp-3-task-test-workspace/kfvhemrd-implement-calculator-add-and-subtract-modules/summary.md
+reviews:
+  - reviews/kfvhemrd-implement-calculator-add-and-subtract-modules/auto-reviewer-bbyippmg.md
 ---
 
 # Implement calculator add and subtract modules
