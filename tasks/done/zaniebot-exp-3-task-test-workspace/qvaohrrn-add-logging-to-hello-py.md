@@ -4,6 +4,10 @@ session: sessions/zaniebot-exp-3-task-test-workspace/qvaohrrn-add-logging-to-hel
 summary: sessions/zaniebot-exp-3-task-test-workspace/qvaohrrn-add-logging-to-hello-py/summary.md
 reviews:
   - reviews/qvaohrrn-add-logging-to-hello-py/auto-reviewer-asymmheu.md
+session: sessions/zaniebot-exp-3-task-test-workspace/qvaohrrn-add-logging-to-hello-py/chat.jsonl
+summary: sessions/zaniebot-exp-3-task-test-workspace/qvaohrrn-add-logging-to-hello-py/summary.md
+reviews:
+  - reviews/qvaohrrn-add-logging-to-hello-py/auto-reviewer-asymmheu.md
 ---
 
 # Add logging to hello.py
