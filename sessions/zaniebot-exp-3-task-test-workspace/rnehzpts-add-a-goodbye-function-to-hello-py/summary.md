@@ -1,0 +1,1 @@
+Added a goodbye() function to hello.py that prints 'Goodbye from the task queue!'. Updated the __main__ block to call goodbye() after main(). Updated README.md to document both functions and their output.
